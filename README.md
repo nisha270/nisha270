@@ -1,36 +1,32 @@
 
-<!---
-Golugauraw1/Golugauraw1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div>
 <h2 align="center">
- Hi 👋,<i> I am Golu Gauraw.</i> 
+ Hi 👋,<i> I am Nisha.</i> 
 </h2>
 <hr>
 <h2 align="center">
-A passionate full stack web developer from India
+A passionate Java Backend Developer
 </h2>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Golu+Gauraw.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Nisha.;I+am+a+Java+Backend+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+ 🌱 I’m currently learning Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1TSf657gEN7Eq3b9dFNwLFj2znGX0MDn7/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/14gS8Qar-QptIU3_EhDHLBzCMR2YU3ljZ/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/Golugauraw1">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me gaurawverma23@gmail.com
+<a href="https://github.com/nisha270">My Github Repositories</a><br><br>
+ 💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
+ ⚡ How to reach me nishaguptag399@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/golu-gauraw-1b578b185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nisha-gupta-b25662238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -45,7 +41,7 @@ A passionate full stack web developer from India
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png?style=for-the-badge&logo=html5&logoColor=white"  align="center" alt="Java" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=gold"  align="center" alt="material-ui"/>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />

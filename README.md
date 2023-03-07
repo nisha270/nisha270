@@ -90,34 +90,30 @@ A passionate Java Backend Developer
 
 | Project Name      | Description | 
 | :---:        |    :----   | 
-| [My Portfolio Website](#)     | Portfolio website build using HTML5, CSS3, JavaScript. 
-| [Online Banking System](#)   | This is Project during Spark-Foundation one month Internship created basic money transfer system. 
-| [Lovely Science](#)     |This is Basic Webpage created using HTML CSS Javascript.  
-| [BlueBell - SurveyAplication](#) | This is the Survey Application based on Java. 
+| [My Portfolio Website](https://nisha270.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript. 
+| [PHARMEASY](https://strong-cuchufli-c3bd59.netlify.app/index.html)   | This is Basic Webpage created using HTML CSS Javascript.
+| [KindMeal](https://subtle-paprenjak-31e6a7.netlify.app/)     | This is the Meat-free lifestyle platform based on HTML CSS Javascript.  
+<!-- | [BlueBell - SurveyAplication](#) | 
 | [Tejal Classes - Education Website](#) | This Project is created using Wordpress.|
-
+ -->
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  
  
 <h2 align="center">📊 My GitHub Statastics </h2>
 
- <table align ="center">
+<!--  <table align ="center"> -->
+ <div align ="center">
   <tr>
-   
 <td><img src="https://github-readme-stats.vercel.app/api?username=nisha270&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha270&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
   </tr>
-</table>
+  </div>
+<!-- </table> -->
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha270&theme=dark" alt="Nisha" /></p>
   </div>
-<!--   [![Pallavi679's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pallavi679&theme=xcode)](https://git.io/Pallavi679) -->
-<!-- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white -->
-
-[![GitHub followers](https://img.shields.io/github/followers/nisha270.svg?style=social&label=Follow)](https://github.com/nisha270?tab=followers)
-
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <h2> ✍️ Random Dev Quote </h2>

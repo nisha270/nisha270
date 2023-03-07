@@ -1,5 +1,6 @@
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
+ 
 <h2 align="center">
  Hi 👋,<i> I am Nisha.</i> 
 </h2>
@@ -12,6 +13,9 @@ A passionate Java Backend Developer
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
+ 
+ <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning Java.<br><br>
@@ -23,11 +27,23 @@ A passionate Java Backend Developer
  💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
  ⚡ How to reach me nishaguptag399@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📱 Connect With Me </h2>
+<!-- <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/nisha-gupta-b25662238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
-</p>
+</p> -->
+ 
+<h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+
+<a  href="https://www.linkedin.com/in/nisha-gupta-b25662238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Nisha_2707" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:nishaguptag399@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+
+</div>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <div align="center">
@@ -42,30 +58,22 @@ A passionate Java Backend Developer
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <!-- <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png?style=for-the-badge&logo=html5&logoColor=white"  align="center" alt="Java" /> -->
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=gold"  align="center" alt="material-ui"/>
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />
 <br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="center" alt="Ja" />
+<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/> -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="mongodb"/>
  </div>
  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+<!--    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<!--    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/> -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<!-- <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"> -->
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="anku"/>
-   <br/>
-<br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
@@ -73,17 +81,38 @@ A passionate Java Backend Developer
 <br/>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nisha270&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📊 My GitHub Statastics </h2>
-<div align="center">
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha270&lans-count=4" /></p>
- -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nisha270&show_icons=true&locale=en" /></p>
 
 
-<img src="https://streak-stats.demolab.com/?user=nisha270&theme=github-dark"
-    alt="status" /></a>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  
+<!--  projects -->
+ <h1 align="center">Projects</h1>
+
+| Project Name      | Description | 
+| :---:        |    :----   | 
+| [My Portfolio Website](#)     | Portfolio website build using HTML5, CSS3, JavaScript. 
+| [Online Banking System](#)   | This is Project during Spark-Foundation one month Internship created basic money transfer system. 
+| [Lovely Science](#)     |This is Basic Webpage created using HTML CSS Javascript.  
+| [BlueBell - SurveyAplication](#) | This is the Survey Application based on Java. 
+| [Tejal Classes - Education Website](#) | This Project is created using Wordpress.|
+
+
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ 
+ 
+<h2 align="center">📊 My GitHub Statastics </h2>
+
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=nisha270&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha270&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha270&theme=dark" alt="Pallavi" /></p>
+  </div>
 
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 

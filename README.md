@@ -41,7 +41,7 @@ A passionate Java Backend Developer
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png?style=for-the-badge&logo=html5&logoColor=white"  align="center" alt="Java" />
+<!-- <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png?style=for-the-badge&logo=html5&logoColor=white"  align="center" alt="Java" /> -->
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=gold"  align="center" alt="material-ui"/>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />
@@ -82,7 +82,7 @@ A passionate Java Backend Developer
 
 
 <img src="https://streak-stats.demolab.com/?user=nisha270&theme=github-dark"
-    alt="stats" /></a>
+    alt="status" /></a>
  
 
 </div>

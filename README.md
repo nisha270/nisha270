@@ -72,7 +72,7 @@ A passionate Java Backend Developer
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nisha270&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
@@ -81,7 +81,7 @@ A passionate Java Backend Developer
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nisha270&show_icons=true&locale=en" /></p>
 
 
-<img src="https://streak-stats.demolab.com/?user=golugauraw1&theme=github-dark"
+<img src="https://streak-stats.demolab.com/?user=nisha270&theme=github-dark"
     alt="stats" /></a>
  
 

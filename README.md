@@ -27,12 +27,7 @@ A passionate Java Backend Developer
  💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
  ⚡ How to reach me nishaguptag399@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<!-- <h2 align="center">📱 Connect With Me </h2>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/nisha-gupta-b25662238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
-</p> -->
- 
+
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">

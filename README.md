@@ -20,8 +20,9 @@ A passionate Java Backend Developer
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
+<!--  👨‍💻 Portfolio <a href="">nisha270.github.io</a><br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/14gS8Qar-QptIU3_EhDHLBzCMR2YU3ljZ/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="">Portfolio</a><br><br>
+ 👨‍💻  Know more about me <a href="https://nisha270.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/nisha270">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
@@ -31,13 +32,9 @@ A passionate Java Backend Developer
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
-
-
 <a  href="https://www.linkedin.com/in/nisha-gupta-b25662238/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Nisha_2707" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:nishaguptag399@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-
 </div>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 

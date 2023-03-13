@@ -19,7 +19,7 @@ A passionate Java Backend Developer
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning Java.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
-<!--  👨‍💻 Portfolio <a href="">nisha270.github.io</a><br><br> -->
+ 👨‍💻 Portfolio <a href="">nisha270.github.io</a><br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/14gS8Qar-QptIU3_EhDHLBzCMR2YU3ljZ/view?usp=sharing">Resume</a><br><br>
  👨‍💻  Know more about me <a href="https://nisha270.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at

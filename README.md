@@ -43,7 +43,8 @@ A passionate Java Backend Developer
        alt="snake" /></a>
 </div>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-
+ 
+ 
 <h2 align="center">🚀 Languages and Tools: </h2>
 <br/>
  <div align="center"><h3 align="center">Frontend</h3>

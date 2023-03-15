@@ -27,7 +27,6 @@ A passionate Java Backend Developer
  💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
  ⚡ How to reach me nishaguptag399@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-
 <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">

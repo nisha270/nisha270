@@ -74,7 +74,6 @@ A passionate Java Backend Developer
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nisha270&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 
-
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  
 <!--  projects -->

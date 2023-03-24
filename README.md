@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<div>
- 
+<div> 
 <h2 align="center">
  Hi 👋,<i> I am Nisha.</i> 
 </h2>

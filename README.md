@@ -16,14 +16,13 @@ A passionate Java Backend Developer
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently working on <a href="https://dapper-souffle-c0755e.netlify.app">Beauty Website</a> <br><br>
  🌱 I’m currently learning Java.<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
-<!--  👨‍💻 Portfolio <a href="https://nisha270.github.io/">nisha270.github.io</a><br><br> -->
+ 
  🤔 Check Out my <a href="https://drive.google.com/file/d/14gS8Qar-QptIU3_EhDHLBzCMR2YU3ljZ/view?usp=sharing">Resume</a><br><br>
  👨‍💻  Know more about me <a href="https://github.com/nisha270">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/nisha270">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, Php, SQl, Java<br><br>
- ⚡ How to reach me nishaguptag399@gmail.com
+  📫 How to reach me **nishaguptag399@gmail.com**<br><br>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
